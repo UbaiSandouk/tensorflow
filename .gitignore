@@ -23,3 +23,6 @@ node_modules
 /_python_build
 *.pyc
 __pycache__
+tensorflow/examples/udacity/notMNIST_large.tar.gz
+tensorflow/examples/udacity/notMNIST_small.tar.gz
+*.pickle
